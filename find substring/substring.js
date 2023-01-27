@@ -23,4 +23,4 @@ function longestCommonSubstring(str1,str2){
     }
     return str1.substring(end-result,end);
 }
-longestCommonSubstring("Meera",'Peeram')
+console.log(longestCommonSubstring("Meera",'Peeram'))
